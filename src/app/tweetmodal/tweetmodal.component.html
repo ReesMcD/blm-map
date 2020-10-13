@@ -1,0 +1,15 @@
+<div class="modal" [class.is-active]="visible | async">
+  <div class="modal-background" (click)="toggle()"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">Modal title</p>
+      <button class="delete" aria-label="close" (click)="toggle()"></button>
+    </header>
+    <section class="modal-card-body">
+      <div class="container">
+        <app-tweet-carousel [slides]="slides">
+        </app-tweet-carousel>
+      </div>
+    </section>
+  </div>
+</div>

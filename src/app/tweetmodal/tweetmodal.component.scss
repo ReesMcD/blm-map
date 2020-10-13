@@ -1,0 +1,26 @@
+@import './../variables.scss';
+
+.modal-card {
+  height: 70%;
+  width: 70%;
+}
+
+.modal-card-head {
+  background-color: $black;
+  border-bottom: $black;
+  border-top: $black;
+}
+
+.modal-card-body,
+.delete {
+  background-color: $grey;
+}
+
+.delete::before:hover {
+  background-color: $primary;
+}
+
+.container {
+  height: 100%;
+  padding: 2em;
+}

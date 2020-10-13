@@ -1,0 +1,22 @@
+@import './../variables.scss';
+
+.navbar {
+  background-color: $black;
+}
+
+.navbar-brand>.navbar-item {
+  color: $white;
+}
+
+.navbar-question {
+  color: $grey;
+  font-size: 20px;
+}
+
+.navbar-question:hover {
+  color: $primary;
+}
+
+.buttons {
+  display: contents;
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "state": "AK",
+    "latitude": 61.3850,
+    "longitude": -152.2683
+  },
+  {
+    "state": "AL",
+    "latitude": 32.7990,
+    "longitude": -86.8073
+  },
+  {
+    "state": "AR",
+    "latitude": 34.9513,
+    "longitude": -92.3809
+  },
+  {
+    "state": "AZ",
+    "latitude": 33.7712,
+    "longitude": -111.3877
+  },
+  {
+    "state": "CA",
+    "latitude": 36.1700,
+    "longitude": -119.7462
+  },
+  {
+    "state": "CO",
+    "latitude": 39.0646,
+    "longitude": -105.3272
+  },
+  {
+    "state": "CT",
+    "latitude": 41.5834,
+    "longitude": -72.7622
+  },
+  {
+    "state": "DE",
+    "latitude": 39.3498,
+    "longitude": -75.5148
+  }
+]

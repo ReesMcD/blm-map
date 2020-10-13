@@ -28,6 +28,8 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bulma/css/bulma.min.css",
+              "node_modules/font-awesome/css/font-awesome.min.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -123,6 +125,11 @@
           }
         }
       }
-    }},
-  "defaultProject": "blmmap"
+    }
+  },
+  "defaultProject": "blmmap",
+  "cli": {
+    "analytics": "2a23300c-ea28-4487-af2c-b8128b55e506",
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
